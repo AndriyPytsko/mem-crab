@@ -1,0 +1,10 @@
+.sum-cell:hover {
+  cursor: pointer;
+  background: #2196f3;
+  color: white;
+}
+.delete-cell:hover {
+  cursor: pointer;
+  background: #ff9100;
+  color: white;
+}

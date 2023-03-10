@@ -1,0 +1,10 @@
+.cell {
+    cursor: pointer;
+    user-select: none;
+}
+.active-cell {
+    background: aquamarine;
+}
+.cell:hover{
+    background: gainsboro;
+}
